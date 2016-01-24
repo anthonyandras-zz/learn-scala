@@ -1,0 +1,1 @@
+for (x <- 1 to 100) { if(x % 5 == 0) println(x + ", ") else print(x + ", ") }
